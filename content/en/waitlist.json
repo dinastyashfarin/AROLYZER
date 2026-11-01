@@ -1,0 +1,90 @@
+{
+  "header": {
+    "arolyzer_home": "AROLYZER home",
+    "arolyzer": "AROLYZER",
+    "language": "Language",
+    "night_mode": "Night mode",
+    "back_to_the_machine": "Back to the machine"
+  },
+  "pass": {
+    "your_place_on_the_list": "Your place on the list",
+    "get_a_first_unit_before": "Get a first unit before it ships.",
+    "pilot_units_go_to_mills": "Pilot units go to mills on this list first. Tell us about your operation and we’ll email you build news, demo days and pilot pricing.",
+    "arolyzer_pilot_list": "AROLYZER pilot list",
+    "operation": "Operation",
+    "waste_a_month": "Waste a month",
+    "location": "Location",
+    "on_the_list": "On the list",
+    "your_pass_fills_in_as": "Your pass fills in as you type. We never share your details. <a href=\"Landing4.dc.html\">Privacy policy</a>"
+  },
+  "form": {
+    "progress": "Progress",
+    "about_you": "About you",
+    "so_we_know_who_to": "So we know who to write to.",
+    "full_name": "Full name",
+    "work_email": "Work email",
+    "whatsapp_number": "WhatsApp number",
+    "optional": "(optional)",
+    "your_role": "Your role",
+    "your_operation": "Your operation",
+    "helps_us_plan_which_mills": "Helps us plan which mills get pilot units first.",
+    "company_or_mill_name": "Company or mill name",
+    "city_and_country": "City and country",
+    "what_do_you_run": "What do you run?",
+    "waste_a_month": "Waste a month",
+    "send_me_arolyzer_news_and": "Send me AROLYZER news and the newsletter by email. I can unsubscribe with one click, and my details are only used for this list.",
+    "back": "Back",
+    "continue": "Continue",
+    "joining": "Joining…",
+    "join_the_waitlist": "Join the waitlist",
+    "you_re_on_the_list": "You’re on the list, {firstName}.",
+    "we_sent_a_confirmation_to": "We sent a confirmation to <b>{email}</b>. Click the link in it to start getting updates.",
+    "build_news_and_demo_days": "Build news and demo days as they’re set",
+    "pilot_pricing_before_it_goes": "Pilot pricing before it goes public",
+    "unsubscribe_from_any_email_in": "Unsubscribe from any email in one click",
+    "back_to_the_machine": "Back to the machine"
+  },
+  "choices": {
+    "roles": [
+      "Owner",
+      "Manager",
+      "Engineer",
+      "Other"
+    ],
+    "operations": [
+      {
+        "label": "Palm oil mill",
+        "note": "Empty fruit bunches"
+      },
+      {
+        "label": "Rice mill",
+        "note": "Husk"
+      },
+      {
+        "label": "Coconut processor",
+        "note": "Coir and shells"
+      },
+      {
+        "label": "Farm or co-op",
+        "note": "Mixed crop waste"
+      },
+      {
+        "label": "Research or NGO",
+        "note": "Trials and studies"
+      },
+      {
+        "label": "Something else",
+        "note": "Tell us later"
+      }
+    ],
+    "tonnage": [
+      "Under 10 t",
+      "10–50 t",
+      "50–200 t",
+      "200 t +"
+    ]
+  },
+  "errors": {
+    "send_failed": "We couldn’t save your details. Check your connection and try again."
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "header": {
+    "arolyzer_home": "Beranda AROLYZER",
+    "language": "Bahasa",
+    "night_mode": "Mode malam",
+    "back_to_the_machine": "Kembali ke mesin"
+  },
+  "pass": {
+    "your_place_on_the_list": "Posisi Anda di daftar",
+    "get_a_first_unit_before": "Dapatkan unit pertama sebelum dikirim.",
+    "pilot_units_go_to_mills": "Unit pilot dikirim lebih dulu ke pabrik yang ada di daftar ini. Ceritakan usaha Anda, dan kami akan mengirim kabar produksi, jadwal demo dan harga pilot lewat email.",
+    "arolyzer_pilot_list": "Daftar pilot AROLYZER",
+    "operation": "Jenis usaha",
+    "waste_a_month": "Limbah per bulan",
+    "location": "Lokasi",
+    "on_the_list": "Terdaftar",
+    "your_pass_fills_in_as": "Kartu Anda terisi saat Anda mengetik. Kami tidak pernah membagikan data Anda. <a href=\"Landing4.dc.html\">Kebijakan privasi</a>"
+  },
+  "form": {
+    "progress": "Progres",
+    "about_you": "Tentang Anda",
+    "so_we_know_who_to": "Supaya kami tahu harus menghubungi siapa.",
+    "full_name": "Nama lengkap",
+    "work_email": "Email kantor",
+    "whatsapp_number": "Nomor WhatsApp",
+    "optional": "(opsional)",
+    "your_role": "Peran Anda",
+    "your_operation": "Usaha Anda",
+    "helps_us_plan_which_mills": "Membantu kami menentukan pabrik mana yang mendapat unit pilot lebih dulu.",
+    "company_or_mill_name": "Nama perusahaan atau pabrik",
+    "city_and_country": "Kota dan negara",
+    "what_do_you_run": "Usaha apa yang Anda jalankan?",
+    "waste_a_month": "Limbah per bulan",
+    "send_me_arolyzer_news_and": "Kirimi saya kabar dan newsletter AROLYZER lewat email. Saya bisa berhenti berlangganan dengan satu klik, dan data saya hanya dipakai untuk daftar ini.",
+    "back": "Kembali",
+    "continue": "Lanjut",
+    "joining": "Mendaftar…",
+    "join_the_waitlist": "Gabung daftar tunggu",
+    "you_re_on_the_list": "Anda sudah terdaftar, {firstName}.",
+    "we_sent_a_confirmation_to": "Kami mengirim konfirmasi ke <b>{email}</b>. Klik tautan di dalamnya untuk mulai menerima kabar.",
+    "build_news_and_demo_days": "Kabar produksi dan jadwal demo begitu ditetapkan",
+    "pilot_pricing_before_it_goes": "Harga pilot sebelum diumumkan",
+    "unsubscribe_from_any_email_in": "Berhenti berlangganan dari email mana pun dengan satu klik",
+    "back_to_the_machine": "Kembali ke mesin"
+  },
+  "choices": {
+    "roles": [
+      "Pemilik",
+      "Manajer",
+      "Teknisi",
+      "Lainnya"
+    ],
+    "operations": [
+      {
+        "label": "Pabrik kelapa sawit",
+        "note": "Tandan kosong"
+      },
+      {
+        "label": "Penggilingan padi",
+        "note": "Sekam"
+      },
+      {
+        "label": "Pengolah kelapa",
+        "note": "Sabut dan tempurung"
+      },
+      {
+        "label": "Kebun atau koperasi",
+        "note": "Limbah tanaman campuran"
+      },
+      {
+        "label": "Riset atau LSM",
+        "note": "Uji coba dan penelitian"
+      },
+      {
+        "label": "Usaha lain",
+        "note": "Nanti saja"
+      }
+    ],
+    "tonnage": [
+      "Di bawah 10 t",
+      "10–50 t",
+      "50–200 t",
+      "200 t +"
+    ]
+  },
+  "errors": {
+    "send_failed": "Data Anda belum tersimpan. Periksa koneksi lalu coba lagi."
+  },
+  "phrases": {
+    "Pending": "Menunggu",
+    "Confirmed": "Terkonfirmasi",
+    "Your name": "Nama Anda",
+    "Your company": "Perusahaan Anda",
+    "Add your name.": "Isi nama Anda.",
+    "Use an email like name@company.com.": "Gunakan email seperti nama@perusahaan.com.",
+    "Add your company or mill name.": "Isi nama perusahaan atau pabrik Anda.",
+    "Pick the closest one.": "Pilih yang paling mendekati.",
+    "Tick this so we’re allowed to email you.": "Centang ini agar kami boleh mengirim email.",
+    "friend": "teman",
+    "Night mode": "Mode malam",
+    "Switch to night mode": "Beralih ke mode malam",
+    "Switch to light mode": "Beralih ke mode terang"
+  },
+  "patterns": [
+    [
+      "^Step (\\d) of (\\d)$",
+      "Langkah $1 dari $2"
+    ],
+    [
+      "^(.+) · Owner$",
+      "$1 · Pemilik"
+    ],
+    [
+      "^(.+) · Manager$",
+      "$1 · Manajer"
+    ],
+    [
+      "^(.+) · Engineer$",
+      "$1 · Teknisi"
+    ],
+    [
+      "^(.+) · Other$",
+      "$1 · Lainnya"
+    ]
+  ]
+}

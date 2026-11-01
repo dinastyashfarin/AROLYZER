@@ -1,0 +1,383 @@
+{
+  "hero": {
+    "title": [
+      "Ubah limbah jadi",
+      "biochar bernilai."
+    ],
+    "lede": "Sistem pirolisis rocket stove mandiri energi untuk limbah biomassa lignoselulosa. Mengubah tandan kosong, sabut dan sekam menjadi biochar, dan gasnya sendiri menjaga api tetap menyala, jadi tidak ada yang terbuang.",
+    "cta": "Lihat harga",
+    "n3d_model_of_the_arolyzer": "Model 3D AROLYZER. Geser untuk memutarnya.",
+    "the_3d_model_couldn_t": "Model 3D tidak bisa dimuat di sini. Buka halaman ini di browser versi terbaru untuk melihatnya."
+  },
+  "nav": {
+    "arolyzer_home": "Beranda AROLYZER",
+    "main": "Utama",
+    "how_it_works": "Cara kerja",
+    "calculator": "Kalkulator",
+    "specs": "Spesifikasi",
+    "up_close": "Dari dekat",
+    "features": "Fitur",
+    "pricing": "Harga",
+    "language": "Bahasa",
+    "night_mode": "Mode malam",
+    "join_the_waitlist": "Gabung daftar tunggu"
+  },
+  "why": {
+    "why_arolyzer": "Mengapa AROLYZER",
+    "no_fuel_to_buy": "Tanpa beli bahan bakar",
+    "no_fuel": "Tanpa beli",
+    "to_buy": "bahan bakar",
+    "light_it_once_with_a": "Nyalakan sekali dengan segenggam limbah kering. Setelah itu reaktor menjaga apinya sendiri, jadi tidak perlu beli solar, gas atau kayu bakar.",
+    "nothing_to_plug_in": "Tanpa colokan listrik",
+    "nothing": "Tanpa",
+    "to_plug_in": "colokan listrik",
+    "the_reactor_s_own_gas": "Gas dari reaktor sendiri yang memutar fan peniup api. Tanpa baterai, tanpa listrik PLN, tanpa genset.",
+    "three_wastes_one_machine": "Tiga limbah, satu mesin",
+    "three_wastes": "Tiga limbah,",
+    "one_machine": "satu mesin",
+    "palm_mills_have_fruit_bunches": "Pabrik sawit punya tandan kosong, penggilingan padi punya sekam, pengolah kelapa punya sabut. Satu reaktor bisa mengolah ketiganya, dan setiap batch menghasilkan biochar sekaligus abu yang bisa dipakai."
+  },
+  "traction": {
+    "traction": "Mitra dan liputan",
+    "supported_by": "Didukung oleh"
+  },
+  "how": {
+    "eight_steps_from_waste_to": "Delapan langkah dari limbah ke biochar",
+    "n3d_model_highlighting_the_parts": "Model 3D yang menyorot bagian yang dipakai pada langkah terpilih",
+    "previous_step": "Langkah sebelumnya",
+    "next_step": "Langkah berikutnya"
+  },
+  "calculator": {
+    "what_will_your_waste_make": "Limbah Anda jadi berapa biochar?",
+    "type_in_how_much_dry": "Masukkan jumlah biomassa kering yang Anda punya. Kami hitungkan berapa batch, berapa biochar yang Anda dapat dan berapa lama prosesnya.",
+    "biomass_you_have": "Biomassa yang Anda punya",
+    "kg_dry": "kg, kering",
+    "biomass_in_kilograms": "Biomassa dalam kilogram",
+    "one_batch_fills_the_reactor": "Satu batch mengisi <b>{workL} L</b> volume kerja reaktor, sekitar <b>{capacity} kg</b> biomassa kering pada {bulk} kg/m³. Kami mengasumsikan <b>{yieldPct}%</b> rendemen biochar dan <b>{hours} jam</b> per batch. Angka ini masih perkiraan kami sampai pengujian unit selesai.",
+    "one_sack_for_each_batch": "Satu karung untuk setiap batch. Karung terakhir menunjukkan seberapa penuh batch itu.",
+    "these_are_estimates_what_you": "Ini masih perkiraan. Hasil sebenarnya tergantung seberapa kering biomassanya, seberapa halus cacahannya dan bagaimana pembakarannya."
+  },
+  "specs": {
+    "unit_specs": "Spesifikasi unit",
+    "the_arolyzer_as_we_build": "AROLYZER seperti yang kami buat saat ini. Berat dan volume diambil dari model CAD, dan angka dalam kurung masih kami ukur.",
+    "the_arolyzer_seen_from_the": "AROLYZER dilihat dari depan kiri: tabung reaktor baja mengilap di atas rangka baja hitam berbentuk A, dengan rocket stove dan pipa gas di bawahnya.",
+    "size_and_output": "Ukuran dan hasil",
+    "overall_size_h_w_d": "Ukuran keseluruhan (T × L × P)",
+    "weight": "Berat",
+    "n176_98_kg_empty_without": "(176,98 kg, kosong, tanpa las)",
+    "reactor_volume": "Volume reaktor",
+    "working_volume": "Volume kerja",
+    "n203_29_l_filled_to": "203,29 L, terisi 80%",
+    "load_per_batch": "Muatan per batch",
+    "about_capacity_kg_of_dry": "Sekitar {capacity} kg biomassa kering",
+    "at_bulk_kg_m": "pada {bulk} kg/m³",
+    "batch_time": "Waktu per batch",
+    "about": "Sekitar",
+    "hours_h": "{hours} jam",
+    "cooling_included": ", termasuk pendinginan",
+    "biochar_yield": "Rendemen biochar",
+    "about_yieldpct": "Sekitar {yieldPct}%",
+    "of_dry_input_by_weight": "dari berat bahan kering",
+    "feedstocks": "Bahan baku",
+    "empty_fruit_bunch_rice_husk": "Tandan kosong sawit, sekam padi, sabut kelapa",
+    "build": "Konstruksi",
+    "reactor_lid": "Penutup reaktor",
+    "sealed_lid_with_six_bolts": "Penutup rapat dengan enam baut",
+    "monitoring": "Pemantauan",
+    "pressure_gauge_on_the_lid": "Pengukur tekanan di penutup",
+    "unloading": "Pengosongan",
+    "reactor_handle": "Roda pemutar reaktor",
+    "steel_7_948_g_cm": "Baja, 7,948 g/cm³",
+    "grade_finish": "[jenis, finishing]",
+    "steel_used": "Baja terpakai",
+    "material": "Material"
+  },
+  "upclose": {
+    "up_close": "Dari dekat",
+    "n3d_model_of_the_arolyzer": "Model 3D AROLYZER yang menampilkan bagian terpilih",
+    "previous_part": "Bagian sebelumnya",
+    "next_part": "Bagian berikutnya",
+    "parts": [
+      {
+        "name": "Reaktor dan penutup",
+        "body": "Tabung baja 254 L menampung setiap batch. Penutupnya dibaut rapat, sehingga biomassa menjadi arang tanpa udara, bukan terbakar."
+      },
+      {
+        "name": "Pengukur dan katup",
+        "body": "Pengukur di penutup menunjukkan tekanan di dalam reaktor. Buka katup globe untuk mengalirkan gas lewat pipa ke fan."
+      },
+      {
+        "name": "Rocket stove",
+        "body": "Tungku berinsulasi di bawah reaktor. Nyalakan lewat pintu bahan bakar dan tarik laci abu setelah batch selesai."
+      },
+      {
+        "name": "Fan bertenaga gas",
+        "body": "Diputar oleh gas dari reaktor, fan ini meniupkan udara kembali ke api. Tanpa baterai, tanpa colokan."
+      },
+      {
+        "name": "Pipa gas",
+        "body": "Membawa gas panas dari reaktor ke fan. Gas inilah yang membuat fan terus berputar."
+      },
+      {
+        "name": "Rangka dan roda pemutar",
+        "body": "Rangka baja berbentuk A menopang reaktor. Putar roda untuk memiringkan tabung dan mengeluarkan biochar."
+      }
+    ]
+  },
+  "features": {
+    "built_for_the_mill_yard": "Dibuat untuk halaman pabrik, bukan laboratorium.",
+    "what_makes_it_work_at": "Yang membuatnya cocok untuk pabrik, dan manfaatnya bagi lahan Anda setelahnya.",
+    "gas_loop": "Siklus gas",
+    "gas_drives_the_fan": "Gas memutar fan",
+    "gas_from_the_reactor_runs": "Gas dari reaktor mengalir lewat pipa dan memutar fan, yang meniupkan udara ke api.",
+    "reactor": "Reaktor",
+    "gas_pipe": "Pipa gas",
+    "fire": "Api",
+    "faster_batches": "Batch lebih cepat",
+    "several_burners_heat_the_reactor": "Beberapa burner memanaskan reaktor dari tengah dan samping, jadi satu batch selesai 62,5% lebih cepat dibanding tungku satu burner.",
+    "line_chart_batch_progress_over": "Grafik garis: progres batch dari waktu ke waktu. AROLYZER mencapai 100 persen dalam 37,5 persen waktu yang dibutuhkan tungku satu burner, atau 62,5 persen lebih cepat.",
+    "batch_progress": "Progres batch",
+    "done_in": "selesai dalam",
+    "of_the_time": "waktu",
+    "single_burner_kiln": "Tungku satu burner",
+    "lower_fertiliser_bill": "Hemat biaya pupuk",
+    "ring_meter_fertiliser_cost_cut": "Meter cincin: biaya pupuk turun hingga 60 persen",
+    "saved": "hemat",
+    "biochar_in_the_soil_can": "Biochar di tanah bisa memangkas biaya pupuk hingga 60%.",
+    "bigger_harvests": "Panen lebih besar",
+    "without_biochar": "Tanpa biochar",
+    "with_biochar": "Dengan biochar",
+    "fields_treated_with_biochar_can": "Lahan yang diberi biochar bisa panen 8–30% lebih banyak.",
+    "tank_meter_203_litres_working": "Meter tangki: volume kerja 203 liter dari 254, 80 persen",
+    "n80_full": "terisi 80%",
+    "reactor_tube": "Tabung reaktor",
+    "room_for_about_capacity_kg": "Muat sekitar {capacity} kg biomassa kering per batch, terisi 80%.",
+    "cross_section_flames_rise_through": "Penampang: api naik lewat tengah dan kedua sisi reaktor",
+    "heat_from_every_side": "Panas dari segala sisi",
+    "the_rocket_stove_sends_flames": "Rocket stove mengalirkan api lewat tengah dan kedua sisi reaktor, bukan hanya satu arah, jadi seluruh isi batch panas merata.",
+    "no_mains_power": "Tanpa listrik PLN",
+    "the_fan_runs_on_the": "Fan berjalan dengan gas dari reaktor itu sendiri. Tanpa baterai dan tanpa genset.",
+    "empty_weight": "Berat kosong",
+    "set_it_up_right_where": "Pasang langsung di tempat limbah menumpuk, di pabrik atau di kebun.",
+    "fan": "Fan",
+    "multi_burner": "Multi-burner"
+  },
+  "pricing": {
+    "one_unit_ready_from_day": "Satu unit, siap dari hari pertama.",
+    "every_unit_arrives_built_and": "Setiap unit dikirim sudah dirakit dan diuji. Isi, nyalakan, lalu ambil biochar-nya, tanpa kabel dan tanpa listrik.",
+    "early_bird_free_2_day": "Early bird: gratis uji coba 2 hari dan diskon untuk 3 pembeli pertama",
+    "what_s_in_the_price": "Yang termasuk dalam harga",
+    "reactor_with_lid_six_bolts": "Reaktor dengan penutup, enam baut dan pengukur tekanan",
+    "insulated_rocket_stove_with_fuel": "Rocket stove berinsulasi dengan pintu bahan bakar dan laci abu",
+    "gas_driven_fan_no_battery": "Fan bertenaga gas, tanpa baterai atau listrik PLN",
+    "gas_pipe_with_globe_valve": "Pipa gas dengan katup globe",
+    "join_the_waitlist": "Gabung daftar tunggu",
+    "service_and_training_we_can": "<b>Servis dan pelatihan.</b> Kami bisa melatih tim Anda, menservis unit Anda, atau menyewakan unit sebagai gantinya."
+  },
+  "footer": {
+    "run_one_at_your_mill": "Jalankan satu<br>di pabrik Anda.",
+    "want_to_see_one_run": "Ingin lihat langsung? Hubungi kami lewat WhatsApp untuk demo, uji coba lapangan atau spesifikasi lengkap.",
+    "the_machine": "Mesin",
+    "how_it_works": "<a href=\"#how\">Cara kerja</a>",
+    "calculator": "<a href=\"#calc\">Kalkulator</a>",
+    "specs": "<a href=\"#specs\">Spesifikasi</a>",
+    "up_close": "<a href=\"#upclose\">Dari dekat</a>",
+    "features": "<a href=\"#features\">Fitur</a>",
+    "pricing": "<a href=\"#price\">Harga</a>",
+    "follow": "Ikuti",
+    "turn_waste_into_a_circular": "Ubah limbah, wujudkan ekonomi sirkular."
+  },
+  "steps": [
+    {
+      "title": "Isi reaktor",
+      "body": "Isi tabung reaktor dengan biomassa kering yang sudah dicacah. Tutup penutupnya dan kencangkan enam baut agar tidak ada udara yang masuk.",
+      "tags": [
+        "Tabung reaktor",
+        "Penutup reaktor",
+        "Baut penutup"
+      ]
+    },
+    {
+      "title": "Nyalakan rocket stove",
+      "body": "Nyalakan api dengan segenggam limbah kering, seperti TKKS, sabut atau sekam, dan korek api. Rocket stove cepat panas, sampai 450–660 °C.",
+      "tags": [
+        "Bahan bakar kering",
+        "Korek api",
+        "Hingga 660 °C"
+      ]
+    },
+    {
+      "title": "Ratakan panas",
+      "body": "Tungku punya beberapa burner, jadi api naik lewat tengah dan samping dan seluruh isi batch matang merata. Insulator menjaga panas tetap di dalam dan dinding luar aman disentuh.",
+      "tags": [
+        "Banyak burner",
+        "Insulator tungku",
+        "Permukaan luar aman"
+      ]
+    },
+    {
+      "title": "Alirkan gas panas ke fan",
+      "body": "Saat biomassa memanas, keluar gas panas bertekanan. Pipa membawa gas itu dari reaktor ke fan.",
+      "tags": [
+        "Pipa penyalur",
+        "Gas panas",
+        "Tekanan tinggi"
+      ]
+    },
+    {
+      "title": "Gas memutar fan",
+      "body": "Gas mengalir deras lewat fan dan memutarnya. Tidak perlu listrik. Mesin ini jalan dari gas yang dibuatnya sendiri.",
+      "tags": [
+        "Fan",
+        "Aliran gas",
+        "Tanpa listrik"
+      ]
+    },
+    {
+      "title": "Stabilkan api",
+      "body": "Fan meniupkan udara kembali ke api, jadi nyalanya lebih besar dan stabil.",
+      "tags": [
+        "Ruang bakar",
+        "Api stabil",
+        "Panas merata"
+      ]
+    },
+    {
+      "title": "Keluarkan isi reaktor",
+      "body": "Setelah satu batch selesai, putar roda untuk memiringkan reaktor ke samping. Buka penutup lalu ambil biochar.",
+      "tags": [
+        "Roda pemutar",
+        "Buka penutup",
+        "Ambil biochar"
+      ]
+    },
+    {
+      "title": "Biochar siap digunakan",
+      "body": "Biochar yang keluar tinggi karbon dan rendah abu. Tebarkan di lahan atau jual ke pembeli.",
+      "tags": [
+        "Biochar jadi",
+        "Tinggi karbon, rendah abu",
+        "Siap digunakan"
+      ]
+    }
+  ],
+  "part_names": {
+    "gauge": "Pengukur tekanan",
+    "bolts": "Baut penutup",
+    "lid": "Penutup reaktor",
+    "handle": "Roda pemutar reaktor",
+    "fan": "Fan bertenaga gas",
+    "fuelDoor": "Pintu bahan bakar",
+    "ash": "Laci abu",
+    "valve": "Katup globe",
+    "nozzle": "Nozel burner",
+    "pipes": "Pipa gas",
+    "insulator": "Jaket insulasi",
+    "reactor": "Tabung reaktor",
+    "stove": "Rocket stove",
+    "legs": "Kaki"
+  },
+  "phrases": {
+    "They gave us land to test how reliable the unit is and the quality of the biochar it makes.": "Mereka menyediakan lahan untuk menguji keandalan unit dan kualitas biochar yang dihasilkan.",
+    "Field-tested with PT Novtra Tech Indonesia": "Diuji lapangan bersama PT Novtra Tech Indonesia",
+    "The AROLYZER team": "Tim AROLYZER",
+    "After": "Sesudah",
+    "Before": "Sebelum",
+    "[Photo: sack of finished biochar]": "[Foto: karung biochar jadi]",
+    "[Photo: pile of empty fruit bunches]": "[Foto: tumpukan tandan kosong]",
+    "Drag the line to see what one batch does to a pile of waste.": "Geser garisnya untuk melihat hasil satu batch dari setumpuk limbah.",
+    "From pile to biochar": "Dari tumpukan jadi biochar",
+    "bolts": "baut",
+    "dial": "pengukur",
+    "wastes": "limbah",
+    "Get pilot pricing": "Dapatkan harga pilot",
+    "[Palm oil mill]": "[Pabrik kelapa sawit]",
+    "Pilot site": "Lokasi uji coba",
+    "[Rice mill]": "[Penggilingan padi]",
+    "[University lab]": "[Lab universitas]",
+    "Biochar testing": "Uji biochar",
+    "[Accelerator]": "[Akselerator]",
+    "Program": "Program",
+    "[Grant program]": "[Program hibah]",
+    "Grant": "Hibah",
+    "[Farmer co-op]": "[Koperasi petani]",
+    "Feedstock partner": "Mitra bahan baku",
+    "[Media outlet]": "[Media]",
+    "Press": "Liputan",
+    "[Award]": "[Penghargaan]",
+    "Winner": "Pemenang",
+    "One batch fills the reactor’s": "Satu batch mengisi",
+    "working volume, about": "volume kerja reaktor, sekitar",
+    "of dry biomass at": "biomassa kering pada",
+    "kg/m³. We assume": "kg/m³. Kami mengasumsikan",
+    "biochar yield and": "rendemen biochar dan",
+    "per batch. These are our best guesses until testing on the unit is done.": "per batch. Angka ini masih perkiraan kami sampai pengujian unit selesai.",
+    "batches": "batch",
+    "batch": "batch",
+    "Enter an amount": "Masukkan jumlah",
+    "Type how many kilograms of dry biomass you have.": "Ketik berapa kilogram biomassa kering yang Anda punya.",
+    "kg of dry biomass": "kg biomassa kering",
+    "at": "pada",
+    "Pick a part to see it on the 3D model. Drag to turn the machine.": "Pilih satu bagian untuk melihatnya di model 3D. Geser untuk memutar mesin.",
+    "Room for about": "Muat sekitar",
+    "kg of dry biomass per batch, filled to 80%.": "kg biomassa kering per batch, terisi 80%.",
+    "Sealed lid": "Penutup rapat",
+    "The lid bolts down tight, so no air gets in while the biomass chars.": "Penutup dibaut rapat, sehingga udara tidak masuk saat biomassa menjadi arang.",
+    "A gauge on the lid shows the pressure inside. Nothing electronic to break.": "Pengukur di penutup menunjukkan tekanan di dalam. Tidak ada komponen elektronik yang bisa rusak.",
+    "One reactor": "Satu reaktor",
+    "Empty fruit bunches, rice husk and coconut coir all go in the same tube.": "Tandan kosong, sekam padi dan sabut kelapa masuk ke tabung yang sama.",
+    "Tip-out": "Tuang",
+    "Turn the wheel to tip the tube and empty out the finished biochar.": "Putar roda untuk memiringkan tabung dan menuang biochar yang sudah jadi.",
+    "Ex-works": "Harga pabrik",
+    "[City]": "[Kota]",
+    ", Indonesia. Shipping not included.": ", Indonesia. Belum termasuk ongkos kirim.",
+    "Chat on WhatsApp": "Chat lewat WhatsApp",
+    "Training available.": "Pelatihan tersedia.",
+    "We can train your team and stay with you for the first few batches.": "Kami bisa melatih tim Anda dan mendampingi beberapa batch pertama.",
+    "[confirm]": "[konfirmasi]",
+    "[link]": "[tautan]",
+    "© 2026 AROLYZER · Built in": "© 2026 AROLYZER · Dibuat di",
+    "[City, Indonesia]": "[Kota, Indonesia]",
+    "Switch to night mode": "Ganti ke mode malam",
+    "Switch to light mode": "Ganti ke mode terang",
+    "Loading the 3D model": "Memuat model 3D",
+    "Still loading the 3D model. Almost there.": "Model 3D masih dimuat. Sebentar lagi.",
+    "The rocket stove lights.": "Rocket stove menyala.",
+    "Gas from the reactor spins the fan.": "Gas dari reaktor memutar fan.",
+    "The fan feeds the fire.": "Fan meniupkan udara ke api.",
+    "6 bolts": "6 baut",
+    "1 dial": "1 pengukur",
+    "3 wastes": "3 limbah",
+    "Cookie settings": "Pengaturan cookie"
+  },
+  "patterns": [
+    [
+      "^Step (\\d+) of (\\d+)$",
+      "Langkah $1 dari $2"
+    ],
+    [
+      "^of biochar, from (.+) kg × (\\d+)% yield$",
+      "biochar, dari $1 kg × rendemen $2%"
+    ],
+    [
+      "^of running, about (\\S+) working days? at 8 h$",
+      "waktu proses, sekitar $1 hari kerja @ 8 jam"
+    ],
+    [
+      "^(\\S+) kilograms$",
+      "$1 kilogram"
+    ],
+    [
+      "^(\\d+) bolts$",
+      "$1 baut"
+    ],
+    [
+      "^(\\d+) wastes$",
+      "$1 limbah"
+    ],
+    [
+      "^(\\d+) dial$",
+      "$1 pengukur"
+    ]
+  ]
+}

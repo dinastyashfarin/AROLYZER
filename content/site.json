@@ -1,0 +1,58 @@
+{
+  "name": "AROLYZER",
+  "title": "AROLYZER — Turn waste into biochar that pays",
+  "waitlistTitle": "Join the waitlist — AROLYZER",
+  "description": "A self-powered rocket-stove pyrolysis system that turns fruit bunches, coir and husk into biochar.",
+  "company": {
+    "name": "AROLYZER",
+    "address": ""
+  },
+  "price": {
+    "currency": "Rp",
+    "amount": "25.000.000"
+  },
+  "calculator": {
+    "workingVolumeL": 203.29,
+    "bulkDensity": 150,
+    "yieldPct": 30,
+    "batchHours": 3
+  },
+  "display": {
+    "startDark": false,
+    "autoRotate": true
+  },
+  "logos": [
+    {
+      "src": "/assets/logos/bumi-subur.png",
+      "alt": "Bumi Subur"
+    },
+    {
+      "src": "/assets/logos/hipmi-bekasi-raya.png",
+      "alt": "HIPMI PT Bekasi Raya"
+    },
+    {
+      "src": "/assets/logos/partner-1.png",
+      "alt": "Partner logo"
+    },
+    {
+      "src": "/assets/logos/pensky-venture.png",
+      "alt": "Pensky Venture"
+    },
+    {
+      "src": "/assets/logos/novtra-tech.png",
+      "alt": "PT Novtra Tech Indonesia"
+    },
+    {
+      "src": "/assets/logos/sre.png",
+      "alt": "SRE"
+    },
+    {
+      "src": "/assets/logos/partner-2.png",
+      "alt": "Partner logo"
+    },
+    {
+      "src": "/assets/logos/partner-3.png",
+      "alt": "Partner logo"
+    }
+  ]
+}

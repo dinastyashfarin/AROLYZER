@@ -1,0 +1,30 @@
+{
+  "confirm": {
+    "subject": "Konfirmasi email Anda untuk kabar AROLYZER",
+    "preheader": "Satu klik dan Anda masuk daftar.",
+    "heading": "Konfirmasi email Anda",
+    "greeting": "Halo {name},",
+    "body": "Terima kasih sudah bergabung di daftar pilot AROLYZER. Konfirmasi email Anda, dan kami akan mengirim kabar produksi, jadwal demo dan harga pilot.",
+    "button": "Konfirmasi email saya",
+    "ignore": "Kalau Anda tidak mendaftar, abaikan email ini dan kami tidak akan menghubungi Anda."
+  },
+  "newsletter": {
+    "footer": "Anda menerima email ini karena bergabung di daftar AROLYZER.",
+    "unsubscribe": "Berhenti berlangganan"
+  },
+  "pages": {
+    "confirmed_title": "Email Anda sudah terkonfirmasi",
+    "confirmed_body": "Terima kasih, {name}. Kami akan mengirim kabar produksi, jadwal demo dan harga pilot lewat email.",
+    "invalid_title": "Tautan ini tidak berlaku",
+    "invalid_body": "Mungkin sudah lama atau sudah dipakai. Daftar lagi di waitlist dan kami akan mengirim tautan baru.",
+    "unsubscribe_title": "Berhenti menerima email AROLYZER?",
+    "unsubscribe_body": "Kami akan berhenti mengirim kabar ke {email}.",
+    "unsubscribe_button": "Berhenti berlangganan",
+    "unsubscribed_title": "Anda sudah berhenti berlangganan",
+    "unsubscribed_body": "Kami tidak akan mengirim email lagi ke {email}. Berubah pikiran?",
+    "resubscribe_button": "Berlangganan lagi",
+    "resubscribed_title": "Anda kembali masuk daftar",
+    "resubscribed_body": "Kami akan terus mengirim kabar ke {email}.",
+    "back_home": "Kembali ke situs"
+  }
+}

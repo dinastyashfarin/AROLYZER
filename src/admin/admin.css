@@ -1,0 +1,20 @@
+/* Admin panel base. The site turns Tailwind's reset off, so the few base rules the panel needs live here.
+   :where() keeps these at zero specificity so Tailwind classes always win. */
+.adm{--bg:#EFFAF3;--surf:#DEF1E5;--card:#FFFFFF;--ink:#041B12;--ink2:#41594D;--line:rgba(4,27,18,.12);--act:#86D02E;--act-h:#76BE22;--act-ink:#041B12;--err:#B42318;
+  min-height:100vh;min-height:100svh;background:var(--bg);color:var(--ink);font-family:"EB Garamond",Garamond,Georgia,serif;font-size:17px;line-height:1.5;
+  -webkit-font-smoothing:antialiased;font-variant-numeric:lining-nums tabular-nums}
+body{margin:0;background:#EFFAF3}
+:where(.adm) *,:where(.adm) *::before,:where(.adm) *::after{box-sizing:border-box}
+:where(.adm) :where(h1,h2,h3,p,ul,figure){margin:0}
+:where(.adm) ul{padding:0;list-style:none}
+:where(.adm) :where(button,input,select,textarea){font:inherit;color:inherit}
+:where(.adm) button{cursor:pointer}
+:where(.adm) a{color:#044B39}
+:where(.adm) :focus-visible{outline:2px solid #1DA97A;outline-offset:2px}
+:where(.adm) table{border-collapse:collapse;width:100%}
+:where(.adm) th{font-weight:500;text-align:left}
+.adm .md-help code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:13px;background:var(--surf);padding:1px 5px;border-radius:5px}
+:where(.adm) textarea{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:14px;line-height:1.6}
+@keyframes adm-in{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+.adm-in{animation:adm-in .32s cubic-bezier(.23,1,.32,1) both}
+@media (prefers-reduced-motion:reduce){.adm-in{animation:none}}

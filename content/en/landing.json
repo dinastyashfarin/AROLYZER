@@ -1,0 +1,296 @@
+{
+  "hero": {
+    "title": [
+      "Turn waste into",
+      "biochar that pays."
+    ],
+    "lede": "A self-powered rocket-stove pyrolysis system for fibrous crop waste. It turns fruit bunches, coir and husk into biochar, and its own gas keeps the fire going, so nothing goes to waste.",
+    "cta": "See the price",
+    "n3d_model_of_the_arolyzer": "3D model of the AROLYZER. Drag to turn it.",
+    "the_3d_model_couldn_t": "The 3D model couldn’t load here. Open the page in a current browser to see it."
+  },
+  "nav": {
+    "arolyzer_home": "AROLYZER home",
+    "arolyzer": "AROLYZER",
+    "main": "Main",
+    "how_it_works": "How it works",
+    "calculator": "Calculator",
+    "specs": "Specs",
+    "up_close": "Up close",
+    "features": "Features",
+    "pricing": "Pricing",
+    "language": "Language",
+    "night_mode": "Night mode",
+    "join_the_waitlist": "Join the waitlist"
+  },
+  "why": {
+    "why_arolyzer": "Why AROLYZER",
+    "no_fuel_to_buy": "No fuel to buy",
+    "no_fuel": "No fuel",
+    "to_buy": "to buy",
+    "light_it_once_with_a": "Light it once with a handful of dry waste. From then on the reactor keeps its own fire going, so there’s no diesel, gas or firewood to buy.",
+    "nothing_to_plug_in": "Nothing to plug in",
+    "nothing": "Nothing",
+    "to_plug_in": "to plug in",
+    "the_reactor_s_own_gas": "The reactor’s own gas spins the fan that feeds the fire. No battery, no mains, no generator.",
+    "three_wastes_one_machine": "Three wastes, one machine",
+    "three_wastes": "Three wastes,",
+    "one_machine": "one machine",
+    "palm_mills_have_fruit_bunches": "Palm mills have fruit bunches, rice mills have husk and coconut processors have coir. One reactor handles all three, and every batch gives you biochar plus usable ash."
+  },
+  "traction": {
+    "traction": "Traction",
+    "supported_by": "Supported by"
+  },
+  "how": {
+    "eight_steps_from_waste_to": "Eight steps from waste to biochar",
+    "n3d_model_highlighting_the_parts": "3D model highlighting the parts used in the selected step",
+    "previous_step": "Previous step",
+    "next_step": "Next step"
+  },
+  "calculator": {
+    "what_will_your_waste_make": "What will your waste make?",
+    "type_in_how_much_dry": "Type in how much dry biomass you have. We’ll show you how many batches that is, how much biochar you’ll get and how long it takes.",
+    "biomass_you_have": "Biomass you have",
+    "kg_dry": "kg, dry",
+    "biomass_in_kilograms": "Biomass in kilograms",
+    "one_batch_fills_the_reactor": "One batch fills the reactor’s <b>{workL} L</b> working volume, about <b>{capacity} kg</b> of dry biomass at {bulk} kg/m³. We assume <b>{yieldPct}%</b> biochar yield and <b>{hours} h</b> per batch. These are our best guesses until testing on the unit is done.",
+    "one_sack_for_each_batch": "One sack for each batch. The last one shows how full that batch is.",
+    "h": "h",
+    "these_are_estimates_what_you": "These are estimates. What you really get depends on how dry the biomass is, how finely it’s chopped and how the burn goes."
+  },
+  "specs": {
+    "unit_specs": "Unit specs",
+    "the_arolyzer_as_we_build": "The AROLYZER as we build it today. Weights and volumes come from the CAD model, and anything in brackets we’re still measuring.",
+    "the_arolyzer_seen_from_the": "The AROLYZER seen from the front left: polished steel reactor tube on a black steel A-frame, with the rocket stove and gas pipe underneath.",
+    "size_and_output": "Size and output",
+    "overall_size_h_w_d": "Overall size (H × W × D)",
+    "cm": "[— × — × — cm]",
+    "weight": "Weight",
+    "n177_kg": "177 kg",
+    "n176_98_kg_empty_without": "(176.98 kg, empty, without welds)",
+    "reactor_volume": "Reactor volume",
+    "n254_12_l": "254.12 L",
+    "n254_116_056_mm": "(254,116,056 mm³)",
+    "working_volume": "Working volume",
+    "n203_29_l_filled_to": "203.29 L, filled to 80%",
+    "load_per_batch": "Load per batch",
+    "about_capacity_kg_of_dry": "About {capacity} kg of dry biomass",
+    "at_bulk_kg_m": "at {bulk} kg/m³",
+    "batch_time": "Batch time",
+    "about": "About",
+    "hours_h": "{hours} h",
+    "cooling_included": ", cooling included",
+    "biochar_yield": "Biochar yield",
+    "about_yieldpct": "About {yieldPct}%",
+    "of_dry_input_by_weight": "of dry input by weight",
+    "feedstocks": "Feedstocks",
+    "empty_fruit_bunch_rice_husk": "Empty fruit bunch, rice husk, coconut coir",
+    "build": "Build",
+    "reactor_lid": "Reactor lid",
+    "sealed_lid_with_six_bolts": "Sealed lid with six bolts",
+    "monitoring": "Monitoring",
+    "pressure_gauge_on_the_lid": "Pressure gauge on the lid",
+    "unloading": "Unloading",
+    "reactor_handle": "Reactor handle",
+    "material": "Material",
+    "steel_7_948_g_cm": "Steel, 7.948 g/cm³",
+    "grade_finish": "[grade, finish]",
+    "steel_used": "Steel used",
+    "n22_27_l": "22.27 L",
+    "n22_267_706_mm": "(22,267,706 mm³)"
+  },
+  "upclose": {
+    "up_close": "Up close",
+    "n3d_model_of_the_arolyzer": "3D model of the AROLYZER showing the selected part",
+    "previous_part": "Previous part",
+    "next_part": "Next part",
+    "parts": [
+      {
+        "name": "Reactor and lid",
+        "body": "A 254 L steel tube holds each batch. The lid bolts down tight, so the biomass chars without air instead of burning."
+      },
+      {
+        "name": "Gauge and valve",
+        "body": "The gauge on the lid tells you how the pressure is building inside. Open the globe valve to send the gas down the pipe to the fan."
+      },
+      {
+        "name": "Rocket stove",
+        "body": "An insulated stove under the reactor. Light it through the fuel door and slide out the ash drawer when the batch is done."
+      },
+      {
+        "name": "Gas-driven fan",
+        "body": "Spun by the reactor’s own gas, it blows air back into the fire. No battery, no plug."
+      },
+      {
+        "name": "Gas pipe",
+        "body": "Takes the hot gas from the reactor down to the fan. That’s what keeps the fan spinning."
+      },
+      {
+        "name": "Frame and handle",
+        "body": "A steel A-frame carries the reactor. Turn the wheel to tip the tube and empty out the biochar."
+      }
+    ]
+  },
+  "features": {
+    "built_for_the_mill_yard": "Built for the mill yard, not the lab.",
+    "what_makes_it_work_at": "What makes it work at a mill, and what it does for your fields afterwards.",
+    "gas_loop": "Gas loop",
+    "gas_drives_the_fan": "Gas drives the fan",
+    "gas_from_the_reactor_runs": "Gas from the reactor runs through the pipe and spins the fan, which feeds air to the fire.",
+    "reactor": "Reactor",
+    "gas_pipe": "Gas pipe",
+    "fan": "Fan",
+    "fire": "Fire",
+    "n62_5": "62.5%",
+    "faster_batches": "Faster batches",
+    "several_burners_heat_the_reactor": "Several burners heat the reactor from the middle and the sides, so a batch finishes 62.5% faster than single-burner kilns.",
+    "line_chart_batch_progress_over": "Line chart: batch progress over time. AROLYZER reaches 100 percent at 37.5 percent of the time a single-burner kiln takes, which is 62.5 percent faster.",
+    "batch_progress": "Batch progress",
+    "done_in": "done in",
+    "of_the_time": "of the time",
+    "arolyzer": "AROLYZER",
+    "single_burner_kiln": "Single-burner kiln",
+    "n60": "60%",
+    "lower_fertiliser_bill": "Lower fertiliser bill",
+    "ring_meter_fertiliser_cost_cut": "Ring meter: fertiliser cost cut by up to 60 percent",
+    "saved": "saved",
+    "biochar_in_the_soil_can": "Biochar in the soil can cut fertiliser costs by up to 60%.",
+    "n8_30": "8–30%",
+    "bigger_harvests": "Bigger harvests",
+    "without_biochar": "Without biochar",
+    "with_biochar": "With biochar",
+    "fields_treated_with_biochar_can": "Fields treated with biochar can yield 8 to 30% more.",
+    "tank_meter_203_litres_working": "Tank meter: 203 litres working volume of 254, 80 percent",
+    "n80_full": "80% full",
+    "n254_l": "254 L",
+    "reactor_tube": "Reactor tube",
+    "room_for_about_capacity_kg": "Room for about {capacity} kg of dry biomass per batch, filled to 80%.",
+    "cross_section_flames_rise_through": "Cross-section: flames rise through the middle and both sides of the reactor",
+    "multi_burner": "Multi-burner",
+    "heat_from_every_side": "Heat from every side",
+    "the_rocket_stove_sends_flames": "The rocket stove sends flames up the middle and both sides of the reactor, not just one way, so the whole batch heats evenly.",
+    "n0_w": "0 W",
+    "no_mains_power": "No mains power",
+    "the_fan_runs_on_the": "The fan runs on the reactor’s own gas. No battery and no generator.",
+    "n177": "177",
+    "kg": "kg",
+    "empty_weight": "Empty weight",
+    "set_it_up_right_where": "Set it up right where the waste piles up, at the mill or the farm."
+  },
+  "pricing": {
+    "one_unit_ready_from_day": "One unit, ready from day one.",
+    "every_unit_arrives_built_and": "Every unit arrives built and tested. Load it, light it and collect the biochar, with no wiring and no power supply.",
+    "early_bird_free_2_day": "Early bird: free 2-day trial and a discount for the first 3 buyers",
+    "what_s_in_the_price": "What’s in the price",
+    "reactor_with_lid_six_bolts": "Reactor with lid, six bolts and pressure gauge",
+    "insulated_rocket_stove_with_fuel": "Insulated rocket stove with fuel door and ash drawer",
+    "gas_driven_fan_no_battery": "Gas-driven fan, no battery or mains",
+    "gas_pipe_with_globe_valve": "Gas pipe with globe valve",
+    "join_the_waitlist": "Join the waitlist",
+    "service_and_training_we_can": "<b>Service and training.</b> We can train your team, service your unit, or rent you one instead."
+  },
+  "footer": {
+    "run_one_at_your_mill": "Run one<br>at your mill.",
+    "want_to_see_one_run": "Want to see one run? Message us on WhatsApp for a demo, a field trial or the full spec sheet.",
+    "the_machine": "The machine",
+    "how_it_works": "<a href=\"#how\">How it works</a>",
+    "calculator": "<a href=\"#calc\">Calculator</a>",
+    "specs": "<a href=\"#specs\">Specs</a>",
+    "up_close": "<a href=\"#upclose\">Up close</a>",
+    "features": "<a href=\"#features\">Features</a>",
+    "pricing": "<a href=\"#price\">Pricing</a>",
+    "follow": "Follow",
+    "turn_waste_into_a_circular": "Turn waste into a circular economy."
+  },
+  "steps": [
+    {
+      "title": "Load the reactor",
+      "body": "Fill the reactor tube with dry, chopped biomass. Close the lid and tighten the six bolts so no air can get in.",
+      "tags": [
+        "Reactor tube",
+        "Reactor lid",
+        "Lid bolts"
+      ]
+    },
+    {
+      "title": "Light the rocket stove",
+      "body": "Start the fire with a handful of dry waste, like fruit bunches, coir or husk, and a match. The rocket stove heats up fast, to between 450 and 660 °C.",
+      "tags": [
+        "Dry feedstock",
+        "Match or lighter",
+        "Up to 660 °C"
+      ]
+    },
+    {
+      "title": "Spread the heat",
+      "body": "The stove has several burners, so flames run up the middle and around the sides and the whole batch cooks evenly. Insulation keeps the heat in and the outer wall safe to touch.",
+      "tags": [
+        "Multiple burners",
+        "Insulation jacket",
+        "Safe outer surface"
+      ]
+    },
+    {
+      "title": "Send the hot gas to the fan",
+      "body": "As the biomass heats up, it gives off hot gas under pressure. A pipe takes that gas from the reactor to the fan.",
+      "tags": [
+        "Gas pipe",
+        "Hot gas",
+        "High pressure"
+      ]
+    },
+    {
+      "title": "The gas spins the fan",
+      "body": "The gas rushes through the fan and spins it. No electricity needed. The machine runs on what it makes.",
+      "tags": [
+        "Fan",
+        "Gas flow",
+        "No electricity"
+      ]
+    },
+    {
+      "title": "Steady the flame",
+      "body": "The fan blows air back into the fire, so the flame burns bigger and steadier.",
+      "tags": [
+        "Combustion chamber",
+        "Steady flame",
+        "Even heat"
+      ]
+    },
+    {
+      "title": "Unload the reactor",
+      "body": "When the batch is done, turn the wheel to tip the reactor on its side. Open the lid and take out the biochar.",
+      "tags": [
+        "Turning wheel",
+        "Open the lid",
+        "Take out the biochar"
+      ]
+    },
+    {
+      "title": "Biochar ready to use",
+      "body": "Your biochar comes out high in carbon and low in ash. Spread it on your fields or sell it to buyers.",
+      "tags": [
+        "Finished biochar",
+        "High carbon, low ash",
+        "Ready to use"
+      ]
+    }
+  ],
+  "part_names": {
+    "gauge": "Pressure gauge",
+    "bolts": "Lid bolts",
+    "lid": "Reactor lid",
+    "handle": "Reactor handle",
+    "fan": "Gas-driven fan",
+    "fuelDoor": "Fuel door",
+    "ash": "Ash drawer",
+    "valve": "Globe valve",
+    "nozzle": "Burner nozzle",
+    "pipes": "Gas pipe",
+    "insulator": "Insulation jacket",
+    "reactor": "Reactor tube",
+    "stove": "Rocket stove",
+    "legs": "Legs"
+  }
+}

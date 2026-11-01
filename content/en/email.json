@@ -1,0 +1,30 @@
+{
+  "confirm": {
+    "subject": "Confirm your email for AROLYZER updates",
+    "preheader": "One click and you’re on the list.",
+    "heading": "Confirm your email",
+    "greeting": "Hi {name},",
+    "body": "Thanks for joining the AROLYZER pilot list. Confirm your email and we’ll send you build news, demo days and pilot pricing.",
+    "button": "Confirm my email",
+    "ignore": "If you didn’t sign up, ignore this email and we won’t contact you."
+  },
+  "newsletter": {
+    "footer": "You’re getting this because you joined the AROLYZER list.",
+    "unsubscribe": "Unsubscribe"
+  },
+  "pages": {
+    "confirmed_title": "You’re confirmed",
+    "confirmed_body": "Thanks, {name}. We’ll email you build news, demo days and pilot pricing.",
+    "invalid_title": "This link doesn’t work",
+    "invalid_body": "It may be old or already used. Join the waitlist again and we’ll send you a new one.",
+    "unsubscribe_title": "Stop AROLYZER emails?",
+    "unsubscribe_body": "We’ll stop sending updates to {email}.",
+    "unsubscribe_button": "Unsubscribe",
+    "unsubscribed_title": "You’re unsubscribed",
+    "unsubscribed_body": "We won’t email {email} again. Changed your mind?",
+    "resubscribe_button": "Subscribe again",
+    "resubscribed_title": "You’re back on the list",
+    "resubscribed_body": "We’ll keep sending updates to {email}.",
+    "back_home": "Back to the site"
+  }
+}
